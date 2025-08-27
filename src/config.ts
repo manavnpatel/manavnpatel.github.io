@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
+  name: "Manav Patel",
+  title: "Aspiring Data Scientist",
   description: "Portfolio website of Ryan Fitzgerald",
   accentColor: "#1d4ed8",
   social: {
