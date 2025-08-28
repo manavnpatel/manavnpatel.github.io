@@ -6,7 +6,6 @@ export const siteConfig = {
   social: {
     email: "manavnpatel0@gmail.com",
     linkedin: "https://linkedin.com/in/manavnpatel",
-    twitter: "https://x.com/rfitzio",
     github: "https://github.com/manavnpatel",
   },
   aboutMe:
@@ -37,33 +36,33 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "AIG",
+      title: "Global Business Operations Intern",
+      dateRange: "Jun 2025 - Aug 2025",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Created a Power Query tool to automate audit tracking for ~5,000 rows/month, reducing manual processing by 5 hours/week and improving regulatory compliance visibility",
+        "Built capacity models with average handling time analysis on ~2,000 rows, enabling optimized resource allocation and reducing workload bottlenecks",
+        "Generated a dynamic backlog list from 50,000 audits and a burndown plan to prioritize and track audit resolution using Power Query",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Deloitte",
+      title: "Business Technology Solutions Intern",
+      dateRange: "Jun 2024 - Jul 2024",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Bridged technical and business teams by translating complex data system progress into actionable insights, ensuring timely delivery of project updates",
+        "Summarized database progress in monthly newsletters for 30+ stakeholders, explaining complex features and client feedback",
+        "Created Excel dashboards analyzing 3 key productivity metrics across ~2,000-row datasets, guiding analysis of the quantitative impact of a new client system",
       ],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "Liberty Mutual Insurance Company",
+      title: "Analyst Intern",
+      dateRange: "May 2023 - Aug 2023",
       bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Automated outlier detection workflows for forecasting, saving 7 hours/month and detecting outliers in 10% of the data, enabling more accurate risk assessments for the Personal Line Business",
+        "Ensured real-time updates to 11% of forecast data by designing a diagnostic tool for a 10,000+ row KPI database and facilitating quicker adjustments to state-specific forecasts",
+        "Streamlined variance calculations for 5+ metrics between forecast rounds, saving 5 hours/month and enabling better identification of high-variance KPIs for improved analysis",
       ],
     },
   ],
@@ -71,7 +70,7 @@ export const siteConfig = {
     {
       school: "Georgia Institute of Technology",
       degree: "Master of Science in Analytics (Computational Data Analytics Track)",
-      dateRange: "August 2025 - May 2026",
+      dateRange: "Aug 2025 - May 2026",
       achievements: [
         
       ],
@@ -79,7 +78,7 @@ export const siteConfig = {
     {
       school: "Georgia Institute of Technology",
       degree: "Bachelor of Science in Economics | Minor in Computational Data Analysis",
-      dateRange: "August 2021 - May 2025",
+      dateRange: "Aug 2021 - May 2025",
       achievements: [
         "GPA: 3.87",
         "Chief Administrative Officer @ Georgia Tech Student Foundation",
