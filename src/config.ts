@@ -14,25 +14,25 @@ export const siteConfig = {
   skills: ["Python", "R", "Tableau", "SQL", "Statistics", "Modeling"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Recipe Recommender",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Project Currently In Progress: Create a tool that suggests personalized recipes based on the ingredients a user has at home",
+      link: "",
+      skills: ["Data Wrangling", "Recommender Algorithms", "Text Processing", "Pandas", "NumPy"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Inequitable Urban Greenery: Addressing Environmental Disparities in NYC (CX 4242)",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Analyzed ~700,000 NYC tree records and ~2,000 census tracts using SQL, Python (Decision Trees, K-means), and an interactive choropleth map to uncover environmental inequities in tree health and distribution across socioeconomic groups, providing actionable insights for sustainable urban planning.",
+      link: "https://www.youtube.com/watch?v=ita8fCkWcYQ",
+      skills: ["Python", "SQL", "D3.js", "Data Wrangling", "Predictive Visualization", "Data Visualization"],
     },
     {
       name: "ExtensionKit",
       description:
         "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
       link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Python", "SQL", "D3.js", "Data Wrangling", "Predictive Visualization", "Data Visualization"],
     },
   ],
   experience: [
