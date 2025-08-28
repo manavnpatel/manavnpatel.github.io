@@ -10,8 +10,8 @@ export const siteConfig = {
     github: "https://github.com/manavnpatel",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "As an aspiring data scientist and current M.S. Analytics student at Georgia Tech, I enjoy uncovering patterns in data and applying statistical and predictive modeling techniques to solve real-world problems. My goal is to bridge analytics and strategy to create meaningful impact across industries!",
+  skills: ["Python", "R", "Tableau", "SQL", "Statistics", "Modeling"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
