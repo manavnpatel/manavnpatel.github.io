@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Manav Patel",
   title: "Aspiring Data Scientist",
-  description: "Portfolio website of Ryan Fitzgerald",
+  description: "Portfolio website of Manav Patel",
   accentColor: "#1d4ed8",
   social: {
     email: "manavnpatel0@gmail.com",
@@ -69,23 +69,21 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Georgia Institute of Technology",
+      degree: "Master of Science in Analytics (Computational Data Analytics Track)",
+      dateRange: "August 2025 - May 2026",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "Georgia Institute of Technology",
+      degree: "Bachelor of Science in Economics | Minor in Computational Data Analysis",
+      dateRange: "August 2021 - May 2025",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "GPA: 3.87",
+        "Chief Administrative Officer @ Georgia Tech Student Foundation",
+        "Project Leader @ Consult Your Community",
       ],
     },
   ],
